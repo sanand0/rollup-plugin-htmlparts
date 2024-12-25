@@ -1,6 +1,6 @@
 {
   "name": "rollup-plugin-htmlparts",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "Converts HTML files into modules",
   "main": "dist/rollup-plugin-htmlparts.js",
   "jsnext:main": "dist/rollup-plugin-htmlparts.mjs",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gramener/rollup-plugin-htmlparts.git"
+    "url": "git+https://github.com/sanand0/rollup-plugin-htmlparts.git"
   },
   "dependencies": {
     "html-minifier": "4",
@@ -29,10 +29,10 @@
     "string",
     "template"
   ],
-  "author": "S Anand <s.anand@gramener.com>",
+  "author": "S Anand <root.node@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gramener/rollup-plugin-htmlparts/issues"
+    "url": "https://github.com/sanand0/rollup-plugin-htmlparts/issues"
   },
-  "homepage": "https://github.com/gramener/rollup-plugin-htmlparts#readme"
+  "homepage": "https://github.com/sanand0/rollup-plugin-htmlparts#readme"
 }

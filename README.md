@@ -1,6 +1,6 @@
 # rollup-plugin-htmlparts
 
-[![Build Status](https://travis-ci.com/gramener/rollup-plugin-htmlparts.svg)](https://travis-ci.com/gramener/rollup-plugin-htmlparts)
+[![Build Status](https://travis-ci.com/sanand0/rollup-plugin-htmlparts.svg)](https://travis-ci.com/sanand0/rollup-plugin-htmlparts)
 
 This helps you import HTML snippets into JavaScript variables using modules.
 
@@ -76,6 +76,7 @@ npm install rollup-plugin-htmlparts
 - 1.2.0: 19 Mar 2019 - Ignores whitespace in `<!-- var -->` and `<!-- end -->`
 - 1.2.1: 4 Jan 2022 - Upgrade packages for security vulnerabilities
 - 1.2.2: 23 Nov 2022 - Upgrade packages for security vulnerabilities
+- 1.2.3: 25 Dec 2024 - Upgrade links
 
 ## Release
 
